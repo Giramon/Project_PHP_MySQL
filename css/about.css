@@ -1,0 +1,49 @@
+.about_container {
+    width: 1200px;
+    height: 1000px;
+    margin: 0 auto;
+}
+
+.photo_all {
+    text-align: center;
+}
+
+.photo_all img {
+    width: 500px;
+    border: 1px solid black;
+    border-radius: 30px;
+}
+
+.photo_all h2 {
+    margin-top: 20px;
+}
+
+.photo_and_info {
+    display: flex;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.people {
+    width: 300px;
+    text-align: center;
+    margin-left: 75px;
+}
+
+.people img {
+    width: 100px;
+    border-radius: 50px;
+}
+
+.people h3 {
+    margin-top: 20px;
+}
+
+.people p {
+    margin-top: 20px;
+}
+
+.text_info {
+    text-align: start;
+    margin-top: 50px;
+}

@@ -1,0 +1,41 @@
+.form_container {
+    width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 150px;
+}
+
+.form_container form {
+    background-color: aliceblue;
+    width: 400px;
+    margin: 0 auto;
+    border: 1px solid black;
+    border-radius: 30px;
+}
+
+.inputs {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.inp {
+    width: 250px;
+    height: 30px;
+    padding: 10px;
+    background-color: aqua;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+.sub {
+    cursor: pointer;
+    width: 250px;
+    height: 50px;
+    border: 1px solid black;
+    border-radius: 30px;
+    background-color: aqua;
+}
+
+.sub:hover {
+    background-color: aquamarine;
+}
